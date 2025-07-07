@@ -25,3 +25,8 @@ To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016)
 | Contest | Category | Language | Report |
 | -------- | ------- |  -------- | --------
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) | RWA | Solidity | [source](contests/RAAC.md) |
+
+### Sherlock
+| Contest | Category | Language | Report |
+| -------- | ------- |  -------- | --------
+| [DODO](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | Solidity | [source](contests/dodo.md) |
