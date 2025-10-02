@@ -15,6 +15,11 @@ To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016)
 | [Coinbase EIP-7702](https://cantina.xyz/competitions/b0a948cd-c861-4807-b36e-d680d82598bf) | Wallet   | Solidity | [source](contests/coinbase-7702.md) | 
 | [AAVE APTOS](https://cantina.xyz/competitions/ad445d42-9d39-4bcf-becb-0c6c8689b767) | Lending   | Aptos Move | [source](contests/aave-aptos.md) | 
 | [Aquarius](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff) | DEX   | Stellar Soroban | [source](contests/aquarius.md) | 
+| [Jigsaw Finance](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea) | CDP   | Solidity | [source](contests/jigsaw.md) | 
+| [Solaxy](https://cantina.xyz/competitions/50d38b86-80a0-49af-9df8-70d7d601b7d7) | L2 SVM   | Rust | [source](contests/solaxy.md) | 
+| [Telcoin Network](https://cantina.xyz/competitions/26d5255b-6f68-46cf-be55-81dd565d9d16) | L1 EVM   | Rust | [source](contests/telcoin.md) | 
+| [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51) | DLEX (Decentralized Lending Exchange)   | Solidity | [source](contests/ammalgam.md) | 
+
 
 ### Code4rena
 | Contest | Category | Language | Report |
