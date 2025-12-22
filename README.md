@@ -1,6 +1,6 @@
 ## About fromeo_016
 
-I'm an independent Web3 Security Researcher competing on Cantina, Sherlock, C4, and Codehawks. Skilled in Rust, Go, Move, Solidity, C/C++. I specialize in breaking blackchain protocols.
+I'm an independent Web3 Security Researcher with over 2 Critical, 25+ H/M vulnerabilities found...competing on Cantina, Sherlock, C4, and Codehawks. Skilled in Rust, Go, Move, Solidity, C/C++. I specialize in breaking blackchain protocols.
 
 To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016).
 
