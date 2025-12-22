@@ -1,6 +1,6 @@
 ## About fromeo_016
 
-I'm an independent Web3 Security Researcher competing on Cantina, Sherlock, C4, and Codehawks. Skilled in Rust, Go, Move, Solidity. I specialize in breaking blackchain protocols.
+I'm an independent Web3 Security Researcher competing on Cantina, Sherlock, C4, and Codehawks. Skilled in Rust, Go, Move, Solidity, C/C++. I specialize in breaking blackchain protocols.
 
 To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016).
 
@@ -19,6 +19,15 @@ To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016)
 | [Solaxy](https://cantina.xyz/competitions/50d38b86-80a0-49af-9df8-70d7d601b7d7) | L2 SVM   | Rust | [source](contests/solaxy.md) | 
 | [Telcoin Network](https://cantina.xyz/competitions/26d5255b-6f68-46cf-be55-81dd565d9d16) | L1 EVM   | Rust | [source](contests/telcoin.md) | 
 | [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51) | DLEX (Decentralized Lending Exchange)   | Solidity | [source](contests/ammalgam.md) | 
+| [Kuru](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7) | CLOB   | Solidity | [source](contests/kuru.md) | 
+| [Clementine](https://cantina.xyz/code/ce181972-2b40-4047-8ee9-89ec43527686) | L1 EVM   | Solidity | [source](contests/clementine.md) | 
+
+
+### HackenProf
+| Contest | Category | Language | Report |
+| -------- | ------- |  -------- | --------
+| [Somnia](https://dashboard.hackenproof.com/user/programs/somnia-audit-contest) | L1 EVM | C++ | [source](contests/somnia.md) |
+| [Lumia](https://dashboard.hackenproof.com/user/programs/lumia-smart-contract-audit-contest) | Staking | Solidity | [source](contests/lumia.md) |
 
 
 ### Code4rena
@@ -35,3 +44,4 @@ To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016)
 | Contest | Category | Language | Report |
 | -------- | ------- |  -------- | --------
 | [DODO](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | Solidity | [source](contests/dodo.md) |
+
