@@ -1,13 +1,13 @@
 ## About fromeo_016
 
-I'm an independent Web3 Security Researcher with over 2 Criticals, 25+ H/M vulnerabilities found...competing on Cantina, Sherlock, C4, and Codehawks. Skilled in Rust, Go, Move, Solidity, C/C++. I specialize in breaking blackchain protocols.
+I'm an EVM smart contract developer independent Web3 Security Researcher with over 2 Criticals, 25+ H/M vulnerabilities found...competing on Cantina, Sherlock, C4, and Codehawks. Skilled in Rust, Go, Move, Solidity, C/C++. I specialize in breaking blackchain protocols.
 
 To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016).
 
 ## Contests
 ### 2025
 
-### Cantina
+### [Cantina]()
 | Contest | Category | Language | Report |
 | -------- | ------- |  -------- | -------- | 
 | [LiquityV2](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712) | CDP | Solidity | [source](contests/LiquityV2.md) |
@@ -23,7 +23,7 @@ To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016)
 | [Clementine](https://cantina.xyz/code/ce181972-2b40-4047-8ee9-89ec43527686) | L1 EVM   | Solidity | [source](contests/clementine.md) | 
 
 
-### HackenProf
+### [HackenProf](https://hackenproof.com/hackers/fromeo016)
 | Contest | Category | Language | Report |
 | -------- | ------- |  -------- | --------
 | [Somnia](https://dashboard.hackenproof.com/user/programs/somnia-audit-contest) | L1 EVM | C++ | [source](contests/somnia.md) |
