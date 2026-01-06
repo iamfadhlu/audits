@@ -23,7 +23,7 @@ To get your code secured, reach out on X [@fromeo_016](https://x.com/fromeo_016)
 | [Clementine](https://cantina.xyz/code/ce181972-2b40-4047-8ee9-89ec43527686) | L1 EVM   | Solidity | [source](contests/clementine.md) | 
 
 
-### [HackenProf](https://hackenproof.com/hackers/fromeo016)
+### [HackenProof](https://hackenproof.com/hackers/fromeo016)
 | Contest | Category | Language | Report |
 | -------- | ------- |  -------- | --------
 | [Somnia](https://dashboard.hackenproof.com/user/programs/somnia-audit-contest) | L1 EVM | C++ | [source](contests/somnia.md) |
